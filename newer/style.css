@@ -1,0 +1,26 @@
+.sidenav {
+  color: pink;
+  background-color: white;
+  margin-top: 70px;
+  margin-left: 20px;
+}
+
+.desc {
+  color: purple;
+  background-color: white;
+  margin-top: 100px;
+  margin-left: 10px;
+}
+
+.ports {
+  margin-left: 10px;
+  margin-top: 10px;
+  padding-left: 10px;
+  color: purple;
+  background-color: white;
+  max-width: 200px;
+}
+
+body {
+  background-color: gray;
+}
