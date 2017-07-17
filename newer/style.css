@@ -12,9 +12,29 @@
 .ports {
   color: #000;
   background-color: white;
-  margin-top: 75px;
+  margin-top: 45px;
   margin-left: 15px;
   min-width: 275px;
+  padding-top: 9px;
+}
+
+.cv-header {
+  background-color: white;
+  border-bottom: 1px solid black;
+}
+
+.left-body {
+  background-color: white;
+  border-right: 1px solid black;
+}
+
+.right-body {
+  background-color: white;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
 }
 
 body {
@@ -28,6 +48,12 @@ h1 {
   text-align: center;
   color: #f761ec;
   font-family: 'Lobster', cursive;
+}
+
+h3 {
+  text-align: center;
+  font-family: 'Lobster', cursive;
+  line-height: 15px;
 }
 
 h4 {
