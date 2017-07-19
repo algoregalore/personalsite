@@ -63,14 +63,20 @@ h4 {
 
 a {
   color: #51e2ab;
+  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: none;
+  text-decoration: underline;
   color: #000;
 }
 
 a:active {
   color: #000;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #51e2ab;
   text-decoration: none;
 }
