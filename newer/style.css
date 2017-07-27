@@ -63,12 +63,7 @@ h4 {
 
 a {
   color: #51e2ab;
-  text-decoration: none;
-}
-
-a:hover {
   text-decoration: underline;
-  color: #000;
 }
 
 a:active {
@@ -79,4 +74,9 @@ a:active {
 a:visited {
   color: #51e2ab;
   text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #000;
 }
